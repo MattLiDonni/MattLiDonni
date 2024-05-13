@@ -1,4 +1,5 @@
 Hi, I’m Matt LiDonni
-I'm currently in NJIT working towards an IT degree, specializing in Web Applications. (Expecting to graduate in May 2024)
+I've just finished my IT degree in NJIT and am graduating May 2024.
 
-Some of the things here will be for my portfolio and some will be little projects I do in my own time.
+Most of the stuff here will be fun projects I work on in my free time.
+Some of the repositories here are forked from my school account, and it will say in the description or readme file if so.
